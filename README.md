@@ -2,7 +2,7 @@
 
 <!-- Here are some ideas to get you started: -->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})&emsp;
-[![Linkedin Badge](https://img.shields.io/badge/-Ayman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-elsayeed-80246b103/)](https://www.linkedin.com/in/ayman-elsayeed-80246b103/)&emsp;
+[![Linkedin Badge](https://img.shields.io/badge/-Ayman_Elsayeed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-elsayeed-80246b103/)](https://www.linkedin.com/in/ayman-elsayeed-80246b103/)&emsp;
 
 ---
 
