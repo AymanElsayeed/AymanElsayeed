@@ -24,4 +24,4 @@
 ![](cert/CertificateOfCompletion_Master CloudNative Infrastructure with Kubernetes.pdf)
 
 
-[](./cert/cert1.pdf)
+[](./cert/cert1.png)
