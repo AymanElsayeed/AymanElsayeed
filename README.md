@@ -22,5 +22,4 @@
 [Certificate](https://coursera.org/share/81a7f58d19c5463d25b636fa9c04d3d3)
 
 
-![./cert/cert1.pdf](./cert/cert1.png)
 [![View the PDF](./cert/cert1.png)](./cert/cert1.pdf)
