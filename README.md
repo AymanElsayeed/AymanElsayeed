@@ -22,3 +22,4 @@
 [Certificate](https://coursera.org/share/81a7f58d19c5463d25b636fa9c04d3d3)
 
 ![](cert/CertificateOfCompletion_Master CloudNative Infrastructure with Kubernetes.pdf)
+[View the PDF](./cert/CertificateOfCompletion_Master CloudNative Infrastructure with Kubernetes.pdf)
