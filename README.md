@@ -23,4 +23,4 @@
 
 
 ![./cert/cert1.pdf](./cert/cert1.png)
-[![View the PDF](./cert/cert1.png)](../cert/cert1.pdf)
+[![View the PDF](./cert/cert1.png)](./cert/cert1.pdf)
