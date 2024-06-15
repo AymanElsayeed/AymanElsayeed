@@ -17,3 +17,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ayman-elsayeed-80246b103/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- insert certificate here as pdf file -->
+[Certificate](https://coursera.org/share/81a7f58d19c5463d25b636fa9c04d3d3)
+
+[![My Image](cert/Coursera%2066T53F9GMLX8.pdf)](my_file.pdf)
