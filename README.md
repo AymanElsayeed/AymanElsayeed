@@ -47,10 +47,15 @@ I enjoy bridging theoretical foundations with real-world system design.
 
 ## 🧠 Current Direction
 
-I'm developing a research track around:
+I’m exploring the intersection of:
 
-**Bias-Aware Semantic Anonymization**  
-Studying the relationship between bias and privacy leakage in LLM-based systems, and designing mitigation strategies with measurable guarantees.
+- Privacy and robustness in large language models
+- Fairness-aware system design
+- Secure deployment of high-stakes AI systems
+
+With a focus on building AI systems that are both technically rigorous and production-ready.
+focuses on improving the reliability, privacy, and fairness of AI systems operating in sensitive domains.
+
 
 ---
 
