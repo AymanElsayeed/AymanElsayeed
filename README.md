@@ -47,7 +47,6 @@ I enjoy bridging theoretical foundations with real-world system design.
 
 ## 🧠 Current Direction
 
-<<<<<<< HEAD
 I’m exploring the intersection of:
 
 - Privacy and robustness in large language models
